@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccebd4b0-f44a-4038-a6bb-0fefa3da4893" name="Changes" comment="Task 1 completed" />
+    <list default="true" id="ccebd4b0-f44a-4038-a6bb-0fefa3da4893" name="Changes" comment="Task 2 completed">
+      <change afterPath="$PROJECT_DIR$/Task 2/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,6 +82,7 @@
       <updated>1768472167492</updated>
       <workItem from="1768472168643" duration="1542000" />
       <workItem from="1768474406496" duration="825000" />
+      <workItem from="1768577936811" duration="321000" />
     </task>
     <task id="LOCAL-00001" summary="Task 1 completed">
       <option name="closed" value="true" />
@@ -89,14 +92,34 @@
       <option name="project" value="LOCAL" />
       <updated>1768474576579</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Task 2 completed">
+      <option name="closed" value="true" />
+      <created>1768577979202</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768577979202</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task 1 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 1 completed" />
+    <MESSAGE value="Task 2 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 2 completed" />
   </component>
 </project>
