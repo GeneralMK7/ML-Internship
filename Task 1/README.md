@@ -1,3 +1,4 @@
+## If the google colab link does not work, use this: [task1(Google Colab)](https://colab.research.google.com/drive/1wQC5Z64bQv9STOQ2xPt0XrGRq1bOL5TC?usp=sharing)
 # Task 1: Titanic Dataset Analysis
 
 ## Key Learnings
