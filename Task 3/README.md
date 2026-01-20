@@ -1,3 +1,5 @@
+If the Google Colab link does not work, use this: [Task 2 (Google Colab)](https://colab.research.google.com/drive/14WCpSaSupDRwWWoV-7OuD9YdSWlhFBm_?usp=sharing)
+
 ## Task 3: Exploratory Data Analysis (EDA) 
 
 

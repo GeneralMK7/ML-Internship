@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccebd4b0-f44a-4038-a6bb-0fefa3da4893" name="Changes" comment="Added README to task2">
-      <change afterPath="$PROJECT_DIR$/Task 3/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ccebd4b0-f44a-4038-a6bb-0fefa3da4893" name="Changes" comment="Task 3 completed">
+      <change beforePath="$PROJECT_DIR$/Task 3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Task 3/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +83,7 @@
       <workItem from="1768472168643" duration="1542000" />
       <workItem from="1768474406496" duration="825000" />
       <workItem from="1768577936811" duration="997000" />
-      <workItem from="1768937997058" duration="707000" />
+      <workItem from="1768937997058" duration="1038000" />
     </task>
     <task id="LOCAL-00001" summary="Task 1 completed">
       <option name="closed" value="true" />
@@ -110,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768578382662</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Task 3 completed">
+      <option name="closed" value="true" />
+      <created>1768938943847</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768938943847</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +138,7 @@
     <MESSAGE value="Task 1 completed" />
     <MESSAGE value="Task 2 completed" />
     <MESSAGE value="Added README to task2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added README to task2" />
+    <MESSAGE value="Task 3 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 3 completed" />
   </component>
 </project>
