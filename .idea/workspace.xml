@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccebd4b0-f44a-4038-a6bb-0fefa3da4893" name="Changes" comment="Task 3 completed">
-      <change beforePath="$PROJECT_DIR$/Task 3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Task 3/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="ccebd4b0-f44a-4038-a6bb-0fefa3da4893" name="Changes" comment="Added Google colab Link" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +81,7 @@
       <workItem from="1768472168643" duration="1542000" />
       <workItem from="1768474406496" duration="825000" />
       <workItem from="1768577936811" duration="997000" />
-      <workItem from="1768937997058" duration="1038000" />
+      <workItem from="1768937997058" duration="1245000" />
     </task>
     <task id="LOCAL-00001" summary="Task 1 completed">
       <option name="closed" value="true" />
@@ -117,7 +115,23 @@
       <option name="project" value="LOCAL" />
       <updated>1768938943847</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Google colab Link">
+      <option name="closed" value="true" />
+      <created>1768939118557</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1768939118557</updated>
+    </task>
+    <task id="LOCAL-00006" summary="small change">
+      <option name="closed" value="true" />
+      <created>1768939175206</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1768939175206</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +153,8 @@
     <MESSAGE value="Task 2 completed" />
     <MESSAGE value="Added README to task2" />
     <MESSAGE value="Task 3 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 3 completed" />
+    <MESSAGE value="Added Google colab Link" />
+    <MESSAGE value="small change" />
+    <option name="LAST_COMMIT_MESSAGE" value="small change" />
   </component>
 </project>
