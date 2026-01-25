@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccebd4b0-f44a-4038-a6bb-0fefa3da4893" name="Changes" comment="Task 5 completed" />
+    <list default="true" id="ccebd4b0-f44a-4038-a6bb-0fefa3da4893" name="Changes" comment="Added task pdf">
+      <change afterPath="$PROJECT_DIR$/Task 6/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,8 +69,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142" />
-        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.308" />
+        <option value="bundled-python-sdk-ca5e2b39c7df-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.308" />
       </set>
     </attachedChunks>
   </component>
@@ -83,7 +86,9 @@
       <workItem from="1768577936811" duration="997000" />
       <workItem from="1768937997058" duration="1245000" />
       <workItem from="1769170560787" duration="436000" />
-      <workItem from="1769259881264" duration="347000" />
+      <workItem from="1769259881264" duration="1108000" />
+      <workItem from="1769261382036" duration="35000" />
+      <workItem from="1769356325841" duration="537000" />
     </task>
     <task id="LOCAL-00001" summary="Task 1 completed">
       <option name="closed" value="true" />
@@ -149,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769260088878</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added task pdf">
+      <option name="closed" value="true" />
+      <created>1769260250510</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1769260250510</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +188,7 @@
     <MESSAGE value="small change" />
     <MESSAGE value="Task 4 completed" />
     <MESSAGE value="Task 5 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 5 completed" />
+    <MESSAGE value="Added task pdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added task pdf" />
   </component>
 </project>
