@@ -1,4 +1,4 @@
-If the Google Colab link does not work, use this: [Task 5 (Google Colab)](https://colab.research.google.com/drive/1qE1caY6EHBYINEc9xbYzXBvejvFY7EyB?usp=sharing)
+If the Google Colab link does not work, use this: [Task 6 (Google Colab)](https://colab.research.google.com/drive/1qE1caY6EHBYINEc9xbYzXBvejvFY7EyB?usp=sharing)
 # House Price Prediction using Linear Regression
 
 ## Description  
