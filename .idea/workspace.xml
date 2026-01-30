@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccebd4b0-f44a-4038-a6bb-0fefa3da4893" name="Changes" comment="Added task pdf">
-      <change afterPath="$PROJECT_DIR$/Task 6/README.md" afterDir="false" />
+    <list default="true" id="ccebd4b0-f44a-4038-a6bb-0fefa3da4893" name="Changes" comment="Task 6 completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +87,8 @@
       <workItem from="1769170560787" duration="436000" />
       <workItem from="1769259881264" duration="1108000" />
       <workItem from="1769261382036" duration="35000" />
-      <workItem from="1769356325841" duration="537000" />
+      <workItem from="1769356325841" duration="854000" />
+      <workItem from="1769777901138" duration="163000" />
     </task>
     <task id="LOCAL-00001" summary="Task 1 completed">
       <option name="closed" value="true" />
@@ -162,7 +162,23 @@
       <option name="project" value="LOCAL" />
       <updated>1769260250510</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Task 6 completed">
+      <option name="closed" value="true" />
+      <created>1769357031412</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1769357031412</updated>
+    </task>
+    <task id="LOCAL-00011" summary="some small change">
+      <option name="closed" value="true" />
+      <created>1769357107112</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1769357107112</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +205,8 @@
     <MESSAGE value="Task 4 completed" />
     <MESSAGE value="Task 5 completed" />
     <MESSAGE value="Added task pdf" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added task pdf" />
+    <MESSAGE value="Task 6 completed" />
+    <MESSAGE value="some small change" />
+    <option name="LAST_COMMIT_MESSAGE" value="some small change" />
   </component>
 </project>
