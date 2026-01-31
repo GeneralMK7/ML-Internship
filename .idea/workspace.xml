@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccebd4b0-f44a-4038-a6bb-0fefa3da4893" name="Changes" comment="Task 8 completed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ccebd4b0-f44a-4038-a6bb-0fefa3da4893" name="Changes" comment="Task 9 completed">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +212,23 @@
       <option name="project" value="LOCAL" />
       <updated>1769877554566</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Task 9 completed">
+      <option name="closed" value="true" />
+      <created>1769887283290</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1769887283290</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Task 9 completed">
+      <option name="closed" value="true" />
+      <created>1769887495757</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1769887495757</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,6 +260,7 @@
     <MESSAGE value="Task 7 completed" />
     <MESSAGE value="8" />
     <MESSAGE value="Task 8 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 8 completed" />
+    <MESSAGE value="Task 9 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 9 completed" />
   </component>
 </project>
