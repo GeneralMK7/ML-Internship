@@ -1,4 +1,4 @@
-If the Google Colab link does not work, use this: [Task 7 (Google Colab)](https://colab.research.google.com/drive/1sU0zxJ2ctUlDizKLB82OzRPZvo9IgDf_?usp=sharing)
+If the Google Colab link does not work, use this: [Task 8 (Google Colab)](https://colab.research.google.com/drive/1sU0zxJ2ctUlDizKLB82OzRPZvo9IgDf_?usp=sharing)
 # Task 8 – Bank Marketing Decision Tree
 
 This project predicts whether a customer will subscribe to a bank product using a Decision Tree.
