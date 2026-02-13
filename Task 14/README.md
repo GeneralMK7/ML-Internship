@@ -1,4 +1,4 @@
-## If the google colab link does not work, use this: [task 14 (Google Colab)](https://colab.research.google.com/drive/1M77MtVYd1sar0NHE2hzMbrLCYx8ua8-H?usp=sharing)
+## If the Google colab link does not work, use this: [task 14 (Google Colab)](https://colab.research.google.com/drive/1M77MtVYd1sar0NHE2hzMbrLCYx8ua8-H?usp=sharing)
 # Titanic Survival Prediction 🚢
 
 ## 📌 Overview
